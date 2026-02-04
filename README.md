@@ -64,6 +64,8 @@
 
 [Задание 10](tasks/task_10/README.md)
 
+---
+
 PS: тесты в ci запускаются так:
 
 `go test -race -failfast -count=4`
